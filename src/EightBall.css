@@ -1,0 +1,34 @@
+.Eightball {
+    text-align: center;
+    margin: 4rem;
+    
+}
+
+
+.Eightball-button {
+    border: none;
+    position: relative;
+    background-color: black;
+    color:white;
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    margin: 3rem -3rem;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+.Eightball-reset{
+    position: absolute;
+    padding: 5px;
+    margin-top: 350px;
+    margin-left: -105px;
+    background-color: transparent;
+    border: 2px tomato solid;
+    border-radius: 20%;
+    color: blue;
+    outline: none;
+    cursor: pointer;
+    
+}
